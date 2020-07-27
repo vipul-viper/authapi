@@ -11,3 +11,11 @@ Step 2:npm install
 
 
 Step 3:npm run dev
+
+
+
+FEATURES:-
+
+1)login and logout functionality
+2)follow ,unfollow functionality
+
