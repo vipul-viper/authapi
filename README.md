@@ -13,6 +13,9 @@ Step 2:npm install
 Step 3:npm run dev
 
 
+"TO SEE ALL THE AVAILABLE ROUTES CHECK THE apiDocs.json in docs FOLDER"
+
+
 
 FEATURES:-
 
