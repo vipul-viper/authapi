@@ -22,3 +22,9 @@ FEATURES:-
 1)login and logout functionality
 2)follow ,unfollow functionality
 
+
+
+
+
+If you want the react based frontend to test this go through "react-social-app" repo
+
